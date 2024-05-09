@@ -35,7 +35,7 @@ function setup() {
 }
 
 function draw() {
-  background(255); // Clear the background
+  background(255); 
 
   // Display the appropriate set of images based on the clock mode
   let offset = alternativeClock ? numImages : 0;
@@ -80,6 +80,5 @@ function change_image() {
 }
 
 function mouseClicked() {
-  // Toggle between the two versions of the clock when the user clicks the screen
   alternativeClock = !alternativeClock;
 }
