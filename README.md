@@ -42,11 +42,20 @@ With each movement of the hands, we witness the ups and downs of life. From the 
 In this journey, we experience the unforgiving nature of time and comprehend the preciousness of life. Let us cherish every moment and live a vibrant life, for the passage of time is also our journey of growth and transformation.
 
 ### 🟨 Stage 2
-- Name/Alias:
-- Github account:
-- Published webpage for stage 2:
+- Name/Alias: Odette / Odessso
+- Github account:https://github.com/odessso
+- Published webpage for stage 2: https://odessso.github.io/exquisite-corpse-stage-2-Time-Machine-A-Persons-Lifetime/
 
-*... comments to be added here*
+What else is simultaeneously going through it's own lifetime and could be applicable to the nervending cycle of Ruiting's Time Machine CLock? I decided to make a lifecycle of a simple patch of trees that runs in parallel to the human lifespan created in this clock cycle. User can click the screen to change which lifecycle they are viewing.
+
+### Atributes:
+- I wanted the user to be able to toggle between viewing a human lifecycle which appears busy and complex, with differring milestones - and contrast that with the tranquil growth of plants which still has a cyclical pattern that could work in unision with the human clock.
+- I used an online AI tool to generate some various forest scenes, using prompts such as "small young trees in grassy clearing" or "gigantic old deayed trees, rotten logs, in a grassy clearning" etc.
+- I changed the title slightly so that it encapsulates the idea of viewing various different lifecycles rather than just human: I changed "A Person's Lifetime" to "In a Person's Lifetime". I decided to keep the original labels e.g. "birth" "first love" because I like the way it ties the tree cycle back to what would be happening alternatively in the humans life during that cycle.
+
+### Problems/Difficulties:
+- I had some trouble duplicating a second clock that would work the same as the first yet would use different images. I found that using the same numbering system as Ruiting (this time nameing my photos from "image13" to "image24"  and adding them to the same folder meant that I could work with their code better and build off of the original framework. From what I could see the creator used a numbering system to display each image instead of just manually adding each file directory, so I had to accomodate for this in my secondary clock version.
+- I ran into some errors in the line of code that said "let numImages = 13;". I couldn't work out how it had ended up working with 13 images instead of 12, as there are only 12 segments on the clock face. This made it difficult to get my images to load in the correct places. After a lot of frustation I decided the best decision was just to remove one of Ruiting's images so that I could keep the code simple and work with two sets of 12 images. I did have to sacrifice the gravestone image but I was so happy when the code finally worked. I also had to regig all the file names as my images uploaded as .jpeg whereas the original images were all .jpg - this confused me for the longest time!
 
 ### 🟩 Stage 3
 - Name/Alias:
