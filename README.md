@@ -46,7 +46,7 @@ In this journey, we experience the unforgiving nature of time and comprehend the
 - Github account:https://github.com/odessso
 - Published webpage for stage 2: https://odessso.github.io/exquisite-corpse-stage-2-Time-Machine-A-Persons-Lifetime/
 
-What else is simultaeneously growing, breathing, living, dying during the never-ending cycle of Ruiting's Time Machine Clock? I decided to make a lifecycle of a simple patch of trees that runs in parallel to the human lifespan created in this clock cycle. User can click the screen to change which lifecycle they are viewing.
+What else is simultaneously growing, breathing, living, dying during the never-ending cycle of Ruiting's Time Machine Clock? I decided to make a lifecycle of a simple patch of trees that runs in parallel to the human lifespan created in this clock cycle. User can click the screen to change which lifecycle they are viewing.
 
 #### Atributes:
 - I wanted the user to be able to toggle between viewing a human lifecycle which appears busy and complex, with differring milestones - and contrast that with the tranquil growth of plants which still has a cyclical pattern that could work in unision with the human clock.
